@@ -1,2 +1,2 @@
 # palgania_save
-save palgania 17/07
+palgania save (1/07)
